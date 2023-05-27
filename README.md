@@ -61,7 +61,7 @@ https://docs.wandb.ai/guides/hosting
 https://docs.wandb.ai/guides/integrations
 
 
-References:
+## References:
 
 - https://docs.wandb.ai/guides/integrations/pytorch
 
